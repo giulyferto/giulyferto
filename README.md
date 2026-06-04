@@ -1,6 +1,4 @@
-# Hi, I'm Giuliana 👋🏻
-
-🇦🇷 Born in Argentina, left home at 19 to travel the world — and never really stopped exploring.
+# Hi, I'm Giuliana 👋🏻 🇦🇷
 
 I'm a **Full-Stack Software Engineer** with 5+ years of experience building scalable web and mobile applications across multiple industries. My sweet spot is owning features end-to-end — from architecture decisions to deployment — and I'm always finding ways to integrate AI tooling to move faster and smarter.
 
@@ -37,23 +35,14 @@ I'm a **Full-Stack Software Engineer** with 5+ years of experience building scal
 
 ---
 
-## 🧭 My Story
-
-I started my career in sales before making a full pivot into software development — one of the best decisions I've ever made. That background gave me something most devs don't have: a genuine understanding of business needs and how to translate them into technical solutions that actually matter.
-
-Since then I've worked across industries, built full-stack applications from scratch, automated infrastructure, and integrated AI agents into development workflows. I love working with global, cross-cultural teams — probably because I've been meeting people from all over the world since I was 19.
-
----
-
 ## 🎵 Beyond the Code
 
 When I'm not building things you'll find me:
 
-- 🎶 Listening to music
+- 🎶 Making music
+- 🎾 Playing tennis
 - ⚽ Watching football
-- 🎾 Following tennis
 - 🧩 Solving cubes
-- 🎮 Playing videogames
 - 🐶 Spending time with my dog
 
 ---
