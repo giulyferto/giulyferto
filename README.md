@@ -22,6 +22,7 @@ I'm a **Full-Stack Software Engineer** with 5+ years of experience building scal
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **AI & LLM Tooling**
+
 ![Claude](https://img.shields.io/badge/Claude-D4A27A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
