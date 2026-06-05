@@ -1,6 +1,6 @@
 # Hi, I'm Giuliana 👋🏻 🇦🇷
 
-I'm a **Full-Stack Software Engineer** with 5+ years of experience building scalable web and mobile applications across multiple industries. My sweet spot is owning features end-to-end — from architecture decisions to deployment — and I'm always finding ways to integrate AI tooling to move faster and smarter.
+I'm a **Full-Stack Software Engineer** with 5+ years of experience building scalable web and mobile applications across multiple industries. My sweet spot is owning features end-to-end — from architecture decisions to deployment — and I'm always finding ways to integrate AI tooling — from LLM-powered features to agentic workflows — to move faster and ship smarter.
 
 ---
 
@@ -20,6 +20,11 @@ I'm a **Full-Stack Software Engineer** with 5+ years of experience building scal
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**AI & LLM Tooling**
+![Claude](https://img.shields.io/badge/Claude-D4A27A?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
 
 **Database & Storage**
 
